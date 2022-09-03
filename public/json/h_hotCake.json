@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "id":1,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/614B0B10FDE1F234A4240F77709607E1.jpg","https://res.vmallres.com/uomcdn/CN/cms/202207/B468B324E971E6C24E422244C1B2606B.webp","https://res.vmallres.com/uomcdn/CN/cms/202207/9DA5C94947DA27B4830E5B88F2A3692F.webp"]
+        },
+        {
+            "id":2,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/7318133CD8FC5070B83CA4717D3CCFA9.jpg"]
+        },
+        {
+            "id":3,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/CCA7658EB5540E2A8AE20D0B0EAFAE5B.webp"]
+        },
+        {
+            "id":4,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/CAC0BA9D5560877E117CF4ABD6E15CC0.jpg"]
+        },
+        {
+            "id":5,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202207/9C1D20252B2644A1BC37749785091E0A.webp"]
+        },
+        {
+            "id":6,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/6342B0309C8821FF8BCE6E8B2AB245E8.png"]
+        },
+        {
+            "id":7,
+            "imgArr":["https://res.vmallres.com/uomcdn/CN/cms/202208/B0EF57EE88255DE3CF40E6B15B660171.jpg"]
+        }
+    ]
+}
